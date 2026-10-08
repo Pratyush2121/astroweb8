@@ -1,0 +1,24 @@
+# Robots.txt for Acharya Mahesh Mishra Ji Maharaj (Vedic Anushthan Lucknow & Varanasi)
+User-agent: *
+Allow: /
+
+# GEO: Explicitly Allow AI Engines & Search Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://bestpanditlucknowvaranasi.com/sitemap.xml
